@@ -1,0 +1,9 @@
+rode o zadig antes de tudo, 
+-acesse options e list all devices
+-Selecione usbasp
+-instale e reinstale o drive libusb-win32 (v1.2.6.0)
+
+Depois disso, verifique no gerenciador de dispositivos.
+
+Confirme rodando o programa PROGISP.EXE
+O ícone isp deve estar colorido.
